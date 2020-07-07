@@ -1,0 +1,13 @@
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Wpp_Console\obj\Debug\netcoreapp3.1\Wpp_Console.csprojAssemblyReference.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Wpp_Console\obj\Debug\netcoreapp3.1\Wpp_Console.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Wpp_Console\obj\Debug\netcoreapp3.1\Wpp_Console.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Wpp_Console\obj\Debug\netcoreapp3.1\Wpp_Console.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Wpp_Console\bin\Debug\netcoreapp3.1\Wpp_Console.exe
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Wpp_Console\bin\Debug\netcoreapp3.1\Wpp_Console.deps.json
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Wpp_Console\bin\Debug\netcoreapp3.1\Wpp_Console.runtimeconfig.json
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Wpp_Console\bin\Debug\netcoreapp3.1\Wpp_Console.runtimeconfig.dev.json
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Wpp_Console\bin\Debug\netcoreapp3.1\Wpp_Console.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Wpp_Console\bin\Debug\netcoreapp3.1\Wpp_Console.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Wpp_Console\obj\Debug\netcoreapp3.1\Wpp_Console.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Wpp_Console\obj\Debug\netcoreapp3.1\Wpp_Console.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Wpp_Console\obj\Debug\netcoreapp3.1\Wpp_Console.genruntimeconfig.cache
